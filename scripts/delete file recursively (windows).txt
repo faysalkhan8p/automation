@@ -1,0 +1,1 @@
+Get-ChildItem . -recurse -include *.exe | remove-item
